@@ -1,15 +1,17 @@
 # Heart-Failure-Analysis--Machine-Learning
 
-Background
-Using the HeartFailure data, determine the factors that influence heart failure.
+**BACKGROUND**
+
+**Using the HeartFailure data, determine the factors that influence heart failure.**
 
 
-Dataset
+**DATASET**
+
 This data is from the University of California Irvine machine learning dataset repository.
 https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
 
 
-Data Fields
+**DATA FIELDS**
 
 1.Age - age of the patient (years)
 
@@ -37,7 +39,7 @@ Data Fields
 
 13.Death event - if the patient deceased during the follow-up period (boolean)
 
-Data Values
+**DATA VALUES**
 
 Sex - Gender of patient Male = 1, Female =0
 
@@ -52,4 +54,21 @@ High_blood_pressure - 0 = No, 1 = Yes
 Smoking - 0 = No, 1 = Yes
 
 DEATH_EVENT - 0 = No, 1 = Yes
+
+**RESULTS**
+
+**SCATTERPLOT**
+
+![image](https://user-images.githubusercontent.com/100436462/221019938-47bbfde0-756c-4000-a19d-9b4aa486b94d.png)
+
+
+**1.We can see from the  SVM Classification Plot that irrespective of the age of the person , people with high platelet counts are more likely to survive**
+
+![image](https://user-images.githubusercontent.com/100436462/221016507-8039fc1f-c4ad-4dd8-9eed-11015aff419e.png)
+
+**2.The second conclusion we can draw from below classification plot is that people in the age group of 40 and 70 and with serium sodium bewteen 116-125 are not likely to survive**
+
+![image](https://user-images.githubusercontent.com/100436462/221018540-26348904-8c9e-47c4-86c3-7662561597c0.png)
+
+
 
