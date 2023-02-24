@@ -70,5 +70,10 @@ DEATH_EVENT - 0 = No, 1 = Yes
 
 ![image](https://user-images.githubusercontent.com/100436462/221018540-26348904-8c9e-47c4-86c3-7662561597c0.png)
 
+**3.The third SVM classifcation plot shows that people with creatinine_phosphokinase level between 2000 and 6000 and serum sodium level between 115 and 125 are more likely to survive**
+
+![image](https://user-images.githubusercontent.com/100436462/221252632-9a73cce5-198b-4fe9-8a32-019bc0734b78.png)
+
+
 
 
